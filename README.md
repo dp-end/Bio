@@ -28,4 +28,4 @@ Technical enthusiast focused on building scalable backend systems, optimizing al
 ### 🔗 Connect with me
 - **Professional Network:** [LinkedIn/habib-vural-2301m](https://www.linkedin.com/in/habib-vural-2301m)
 - **Technical Portfolio:** [GitHub/dp-end](https://github.com/dp-end)
-- **Email:** [LinkedIn üzerinden iletişime geçebilirsiniz]
+- **Email:** [vuralhabib864@gmail.com]
